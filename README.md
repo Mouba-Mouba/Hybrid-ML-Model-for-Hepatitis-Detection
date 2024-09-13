@@ -1,1 +1,2 @@
-# Hybrid-ML-Model-for-Hepatitis-Detection
+## HEPATITIS DISEASE DETECTION BY HYBRID MODEL MACHINE LEARNING
+As technology advances, its applications in medicine, such as disease detection, have become increasingly important. This project focuses on hepatitis disease detection, a growing concern due to rising cases, especially in children. Traditional methods often misdiagnose hepatitis as a common cold, highlighting the need for accurate identification. Utilizing machine learning, this hybrid model aims to identify patterns and traits in hepatitis cases, improving diagnostic accuracy and aiding in early detection.
